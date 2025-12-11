@@ -1,5 +1,10 @@
 💰 Personal Expense Tracker - Web Application
 
+## 🚀 Live Demo
+
+👉 **[Click here to open the Live App](https://expense-tracker-app-7favdrzkxptbjwejjkplsu.streamlit.app/)**
+
+
 A modern, interactive web application built with Streamlit to track personal expenses, manage budgets, and visualize financial habits.
 
 This application allows users to log daily expenses, set monthly budgets for different categories, and view insightful dashboards and reports on their spending patterns. It's a simple yet powerful tool for personal finance management.
